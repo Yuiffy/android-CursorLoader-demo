@@ -1,2 +1,3 @@
 # android-CursorLoader-demo
-CursorLoader/ContentProvider/SQLite demo sample
+
+based on https://github.com/Yuiffy/android-sqlite-demo , add ContentProvider/CursorLoader
