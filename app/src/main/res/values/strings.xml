@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">android-sqlite-demo</string>
+    <string name="app_name">android-CursorLoader-demo</string>
     <string name="add_player">add player</string>
     <string name="show_player_list">show player list</string>
     <string name="title_activity_add_player">Add Player</string>

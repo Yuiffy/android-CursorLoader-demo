@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.yuiffy.android_sqlite_demo.MainActivity">
+    tools:context="com.yuiffy.android_cursor_loader_demo.MainActivity">
 
     <Button
         android:id="@+id/btnAddPlayer"
