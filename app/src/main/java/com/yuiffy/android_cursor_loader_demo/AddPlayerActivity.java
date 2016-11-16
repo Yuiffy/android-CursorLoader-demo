@@ -37,7 +37,7 @@ public class AddPlayerActivity extends AppCompatActivity {
                 String playerName = nameTV.getText().toString();
 
                 // Create a new map of values, where column names are the keys
-                C new ContentValues();
+                ContentValues values = new ContentValues();
                 values.put(MyContract.PlayerEntry.COLUMN_NAME_PLAYER_NAME, playerName);
                 values.put(MyContract.PlayerEntry.COLUMN_NAME_SEX, "Male");
                 values.put(MyContract.PlayerEntry.COLUMN_NAME_AGE, "22");
